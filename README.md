@@ -45,7 +45,7 @@ others on group projects.
 #
 
 ### How to reach me:
-<a href="www.linkedin.com/in/hasan-zahid-292541244" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/hasan-zahid-292541244/" target="_blank" rel="noopener noreferrer">
     <img align="left" alt="linkedin" width="26px" src="https://skillicons.dev/icons?i=linkedin" style="padding-right:10px;" />
 </a>
 <a href="https://discord.com/channels/@panicg0dop" target="_blank" rel="noopener noreferrer">
