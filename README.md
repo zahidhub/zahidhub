@@ -4,14 +4,14 @@ Committed to learning, developing skills in software engineering and team contri
 with superior performance in both autonomous and collaborative environments working independently and collaborating with
 others on group projects.
 
+#
+
 ### Github Stats:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zahidhub&show_icons=true&theme=nightowl" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidhub&layout=compact&langs_count=8&card_width=320&theme=nightowl" />
-</a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zahidhub&theme=nightowl&show_icons=true" alt="Hasan Zahid's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidhub&layout=compact&langs_count=8&card_width=320&theme=nightowl" /></a> |
+| ------------- | ------------- |
+
+#
 
 ### Languages and Tools I Have Used and Learned:
 
@@ -29,6 +29,8 @@ others on group projects.
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <br/>
+
+#
 
 ### How to reach me:
 <a href="https://www.linkedin.com/in/hasan-zahid-292541244/" target="_blank" rel="noopener noreferrer">
