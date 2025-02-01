@@ -7,12 +7,21 @@ others on group projects.
 #
 
 ### Github Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zahidhub&show_icons=true&theme=nightowl" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidhub&layout=compact&langs_count=8&card_width=300&theme=nightowl" />
-</a>
+
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=zahidhub&show_icons=true&theme=nightowl" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/convoychat">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidhub&layout=compact&langs_count=8&card_width=320&theme=nightowl" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 #
 
